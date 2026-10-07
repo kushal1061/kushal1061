@@ -31,22 +31,6 @@
   </a>
 </div>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [**Distributed-queue**](https://github.com/kushal1061/Distributed-queue) | Distributed task queue system with worker coordination | Go |
-| [**MessageRouter**](https://github.com/kushal1061/MessageRouter) ⭐ | Message routing service for inter-service communication | Python |
-| [**Resume_screener**](https://github.com/kushal1061/Resume_screener) | AI-powered resume screening and ranking tool | TypeScript |
-| [**Binance_trading_bot**](https://github.com/kushal1061/Binance_trading_bot) | Automated crypto trading bot for Binance | Python |
-| [**My-Chat-App**](https://github.com/kushal1061/My-Chat-App) | Real-time chat application | JavaScript |
-| [**Forum**](https://github.com/kushal1061/Forum) | Full-stack discussion forum | TypeScript |
-| [**Blog_post**](https://github.com/kushal1061/Blog_post) | Full-stack blogging platform | TypeScript |
-| [**portfolio**](https://github.com/kushal1061/portfolio) | My personal portfolio website | HTML/CSS |
-
----
 
 ## 📊 GitHub Stats
 
